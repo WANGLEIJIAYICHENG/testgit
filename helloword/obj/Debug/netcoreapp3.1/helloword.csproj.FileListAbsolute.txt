@@ -1,0 +1,11 @@
+F:\大二下学期\服务外包\123\testgit\helloword\bin\Debug\netcoreapp3.1\helloword.exe
+F:\大二下学期\服务外包\123\testgit\helloword\bin\Debug\netcoreapp3.1\helloword.deps.json
+F:\大二下学期\服务外包\123\testgit\helloword\bin\Debug\netcoreapp3.1\helloword.runtimeconfig.json
+F:\大二下学期\服务外包\123\testgit\helloword\bin\Debug\netcoreapp3.1\helloword.runtimeconfig.dev.json
+F:\大二下学期\服务外包\123\testgit\helloword\bin\Debug\netcoreapp3.1\helloword.dll
+F:\大二下学期\服务外包\123\testgit\helloword\bin\Debug\netcoreapp3.1\helloword.pdb
+F:\大二下学期\服务外包\123\testgit\helloword\obj\Debug\netcoreapp3.1\helloword.csprojAssemblyReference.cache
+F:\大二下学期\服务外包\123\testgit\helloword\obj\Debug\netcoreapp3.1\helloword.AssemblyInfoInputs.cache
+F:\大二下学期\服务外包\123\testgit\helloword\obj\Debug\netcoreapp3.1\helloword.AssemblyInfo.cs
+F:\大二下学期\服务外包\123\testgit\helloword\obj\Debug\netcoreapp3.1\helloword.dll
+F:\大二下学期\服务外包\123\testgit\helloword\obj\Debug\netcoreapp3.1\helloword.pdb
