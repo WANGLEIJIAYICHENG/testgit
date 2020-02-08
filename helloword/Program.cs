@@ -6,7 +6,7 @@ namespace helloword
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!hahahhahahh");
+            Console.WriteLine("Hello World!hahahhahahh            sEFSDfsDfSfsDfSDFSDfA是FS三个傻瓜S1");
         }
     }
 }
