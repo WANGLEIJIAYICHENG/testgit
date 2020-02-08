@@ -6,7 +6,7 @@ namespace helloword
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!hahahhahahh           磊哥最帅");
+            Console.WriteLine("Hello World!hahahhahahh     sgsuignsvsjdnseiisjbgs");
         }
     }
 }
